@@ -1,0 +1,26 @@
+.ms-posts--categories {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 2rem;
+}
+
+.ms-cat-link {
+    display: inline-flex;
+    align-items: center;
+    padding: 6px 16px;
+    border-radius: 40px;
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+    color: var(--color-contrast-high);
+    border: 1px solid var(--color-contrast-low);
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+
+.ms-cat-link:hover,
+.ms-cat-link.is-active {
+    background-color: var(--color-contrast-high);
+    color: var(--color-bg);
+    border-color: var(--color-contrast-high);
+}

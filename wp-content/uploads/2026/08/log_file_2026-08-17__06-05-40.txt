@@ -1,0 +1,89 @@
+
+---Downloaded files---
+The import files for: Osty Demo Import were successfully downloaded!
+Initial max execution time = 1200
+Files info:
+Site URL = http://ruchikaaahlawat.local
+Data file = C:\Users\ruchi\Local Sites\ruchikaaahlawat\app\public/wp-content/uploads/2026/08/demo-content-import-file_2026-08-17__06-05-40.xml
+Widget file = C:\Users\ruchi\Local Sites\ruchikaaahlawat\app\public/wp-content/uploads/2026/08/demo-widgets-import-file_2026-08-17__06-05-40.json
+Customizer file = C:\Users\ruchi\Local Sites\ruchikaaahlawat\app\public/wp-content/uploads/2026/08/demo-customizer-import-file_2026-08-17__06-05-40.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Imported
+Block - No Title - Imported
+Search - No Title - Imported
+Categories - No Title - Imported
+Tag Cloud - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
